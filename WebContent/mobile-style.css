@@ -1,0 +1,188 @@
+@CHARSET "US-ASCII";
+
+.contact_box {
+	width: auto;
+	height: 25px;
+	background-color: #ffffff;
+}
+
+.site {
+	width: 100%;
+	margin: 0 auto;
+	min-height: 100%;
+	height: auto;
+}
+
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+	min-height: 100%;
+	height: auto;
+}
+
+.page_element_first {
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	margin-bottom: 8px;
+}
+
+.page_element_first_row {
+	width: 1000px;
+	height: 150px;
+	margin: 0 auto;
+	position: relative;
+	float: left;
+}
+
+.page_element_first_element_small {
+	width: 250px;
+	height: 150px;
+	float: left;
+	position: relative;
+	background-color: green;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.page_element_first_element_big {
+	width: 500px;
+	height: 150px;
+	margin: 0 auto;
+	float: left;
+	position: relative;
+	background-color: red;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.elem_font {
+	font-variant: small-caps;
+	font-size: 200%;
+	margin-top: 20px;
+}
+
+.elem_about {
+	
+}
+
+.elem_about:hover {
+	
+}
+
+.elem_pictures {
+	
+}
+
+.elem_pictures:hover {
+	
+}
+
+.elem_something {
+	
+}
+
+.elem_something:hover {
+	
+}
+
+.elem_projects {
+	
+}
+
+.elem_projects:hover {
+	
+}
+
+.elem_nothing {
+	
+}
+
+.elem_nothing:hover {
+	
+}
+
+.elem_impressum {
+	
+}
+
+.elem_impressum:hover {
+	
+}
+
+.page_element {
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	background-size: 1000px auto;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.pic_geradmer {
+	background-image: url('./images-mobile/geradmer2.jpg');
+}
+
+.pic_london {
+	background-image: url('./images-mobile/london.JPG');
+}
+
+.pic_sydney {
+	background-image: url('./images-mobile/sydney.jpg');
+}
+
+.pic_barcelona {
+	background-image: url('./images-mobile/barcelona.JPG');
+}
+
+.page_element_slideshow {
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	background-color: green;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin-top: 1px;
+}
+
+.footer {
+	width: 1000px;
+	height: 50px;
+	margin: auto 0;
+}
+
+.grey_left {
+	height: 400px;
+	width: 500px;
+	background: rgba(178, 223, 238, 0.6);
+	float: left;
+	z-index: 5;
+}
+
+.grey_right {
+	height: 400px;
+	width: 500px;
+	background: rgba(178, 223, 238, 0.6);
+	float: right;
+	z-index: 5;
+}
+
+.grey_middle {
+	height: 400px;
+	width: 500px;
+	background: rgba(178, 223, 238, 0.6);
+	margin: 0 auto;
+	z-index: 5;
+}
+
+.text_normal {
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: none;
+	font-variant: small-caps;
+	color: #000000;
+	text-indent: 1em;
+}
